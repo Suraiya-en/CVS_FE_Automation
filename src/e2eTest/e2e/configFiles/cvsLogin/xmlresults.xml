@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites disabled="0" errors="0" failures="0" tests="18" time="35.274">
+ <testsuite name="Home Page" timestamp="2022-12-02T10:19:12" hostname="localhost" time="35.274" errors="0" tests="18" skipped="0" disabled="0" failures="0">
+  <testcase classname="Home Page" name="Navigate to the website" time="6.555" />
+  <testcase classname="Home Page" name="Key Highlights_Date " time="3.368" />
+  <testcase classname="Home Page" name="Key Highlights_Enter Highlights" time="0.246" />
+  <testcase classname="Home Page" name="Key Highlights_Submit" time="0.149" />
+  <testcase classname="Home Page" name="Add Metrics_Date" time="3.385" />
+  <testcase classname="Home Page" name="Add Metrics_New LOB" time="0.334" />
+  <testcase classname="Home Page" name="Add Metrics_Metric Name" time="0.269" />
+  <testcase classname="Home Page" name="Add Metrics_Description" time="0.305" />
+  <testcase classname="Home Page" name="Add Metrics_Value Type" time="0.155" />
+  <testcase classname="Home Page" name="Add Metrics_Monthly Actual" time="0.245" />
+  <testcase classname="Home Page" name="Add Metrics_monthly Target" time="0.264" />
+  <testcase classname="Home Page" name="Add metrics_YTD Actual" time="0.292" />
+  <testcase classname="Home Page" name="Add Metrics_YTD Target" time="0.234" />
+  <testcase classname="Home Page" name="Add Metrics_Submit" time="3.169" />
+  <testcase classname="Home Page" name="Edit Metrics_Date" time="9.423" />
+  <testcase classname="Home Page" name="check re-enable metrics tab" time="3.172" />
+  <testcase classname="Home Page" name="check manage permission tab" time="3.213" />
+  <testcase classname="Home Page" name="Manage Permissions_create new access" time="0.491" />
+ </testsuite>
+</testsuites>

@@ -1,0 +1,52 @@
+{
+  "loginCVS": {
+    "username": "//*[@id='username']",
+    "pwd": "//*[@id='password']",
+    "loginButton": "//button[contains(text(),'LOGIN')]"
+  },
+
+  "FileUpload":
+  {
+    "tabFileUpload": "//button[text()='File Upload']",
+    "uploadButton" : "//button[text() = 'Browse']"
+  },
+
+  "KeyHighlights":
+  {
+    "tabKeyHighlights": "//button[text()='Key Highlights']",
+    "enterDateHighlights" : "//*[@type='month']",
+    "enterHighlight" : "//*[@placeholder='Content...']",
+    "submitButton" : "//button[text()='SUBMIT']"
+  },
+    "AddMetrics":
+  {
+    "tabAddLOB": "//button[text()='Add LOB / Metrics']",
+    "AddMetricsDate" : "//*[@placeholder='Metrics Date']",
+    "AddMetricsLOB": "//*[text()='Select...']",
+    "AddMetricsNewLOB":"//*[@placeholder='Enter LOB Name']",
+    "AddMetricsMetricName": "//*[@placeholder='Enter Metric Name']",
+    "AddMetricsDescription":"//*[@placeholder='Content...']",
+    "AddMetricsMonthlyActual": "//*[@placeholder='Monthly Actual']",
+    "AddMetricsMonthlyTarget": "//*[@placeholder='Monthly Target']",
+    "AddMetricsYtdActual": "//*[@placeholder='YTD Actual']",
+    "AddMetricsYtdTarget": "//*[@placeholder='YTD Target']",
+    "AddMetricsSubmitButton": "//button[text()='SUBMIT']"
+  },
+  "editMetrics":
+  {
+    "tabEditLOB": "//button[text()='Edit / Clone / Disable Metrics']",
+    "monthSelect" : "//*[@class=' css-tlfecz-indicatorContainer']",
+    "yearSelect" : "(//*[@class=' css-tlfecz-indicatorContainer'])[2]"
+  },
+
+  "ReEnable": {
+    "tabReEnableMetrics": "//button[text()='Re-enable Metrics']"
+  },
+
+  "ManagePermissions":
+  {
+      "tabManagePermission": "//button[text()='Manage Permissions']"  ,
+      "createNewAccess" : "//button[text()='Create New Access']"
+
+  }
+}

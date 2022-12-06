@@ -1,0 +1,40 @@
+{
+  "LoginDetails": {
+    "UserName": "test",
+    "Password": "test"
+  },
+
+  "keyHighlights":
+  {
+    "month" : "January",
+    "year" : "2022",
+    "highlights" : "Hello"
+  },
+
+  "addMetrics":
+  {
+    "dateMonth": "January",
+    "dateYear" : "2022",
+    "newLOB" : "Hello123",
+    "Name" : "Hello",
+    "Description" : "Hello World",
+    "Type" : "Number",
+    "MonthlyActual" : "1500",
+    "MonthlyTarget" : "1000",
+    "YtdActual" : "1500",
+    "YtdTarget" : "1000"
+  },
+
+  "editMetric" :
+  {
+    "dateMonth":"January",
+    "dateYear" :"2022"
+  },
+
+  "managePermission":
+  {
+    "id" : "navya@cvshealth.com"
+  }
+
+  
+}
